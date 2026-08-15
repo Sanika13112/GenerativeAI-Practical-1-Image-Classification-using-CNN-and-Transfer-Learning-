@@ -1,6 +1,4 @@
-Here is the **`README.md`** content specifically for **Practical Assignment 1 (Pre-trained Model / CNN & Transfer Learning)**:
 
-```markdown
 # Neural Network from Scratch & Pre-trained Models — Generative AI Lab
 **MIT Academy of Engineering, Alandi, Pune**  
 **Department of CSE (AIML)** · **Course:** Generative AI Lab · **Class:** T.Y. Tech
@@ -75,5 +73,5 @@ Below is the performance comparison of our models on the simulated Brain MRI tes
 ## Declaration
 I, **Sanika Dhanaji Mane**, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines. The code is uploaded on my GitHub repository account, and the repository link is provided below:
 
-**GitHub Repository Link:** [https://github.com/Sanika13112/gen-ai-ass1](https://github.com/Sanika13112/gen-ai-ass1)
-```
+**GitHub Repository Link:** https://github.com/Sanika13112/GenerativeAI-Practical-1-Image-Classification-using-CNN-and-Transfer-Learning
+
