@@ -637,7 +637,7 @@ The selected research paper has been used as a methodological reference for the 
 
 The code and project documentation are uploaded to my GitHub repository.
 
-### GitHub Repository : https://github.com/Sanika13112/GenerativeAI-Practical-1-Image-Classification-using-CNN-and-Transfer-Learning
+### GitHub Repository : https://github.com/Sanika13112/GenerativeAI-Practical-1-Image-Classification-using-CNN-and-Transfer-Learning-
 
 
 
